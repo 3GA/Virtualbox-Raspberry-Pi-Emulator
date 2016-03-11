@@ -8,7 +8,7 @@ If you would like to have Raspberry Pi experience before owning the physical boa
 3. Open the torrent file with any torrent client.
 4. Start download and you will have over 600 MB ova file upon download completion.
 
-##Instalation:
+##Installation:
 1. RaspberryPi virtual machine can be created in two steps.
    1. First Step:
       * Nevigate to the downloaded RaspberryPi.ova virtual machine file, double click it and VirtualBox window will open with settings.
