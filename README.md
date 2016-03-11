@@ -6,7 +6,7 @@ If you would like to have Raspberry Pi experience before owning the physical boa
 1. Download and install VirtualBox.
 2. Download [zip file](http://ediy.com.my/Downloads/Raspberry%20Pi/RaspberryPi.VirtualBox.zip) and extract included file to any folder.
 3. Open the torrent file with any torrent client.
-4. Start download and you will have over 600 Mg ova file upon download completion.
+4. Start download and you will have over 600 MB ova file upon download completion.
 
 ##Instalation:
 1. RaspberryPi virtual machine can be created in two steps.
