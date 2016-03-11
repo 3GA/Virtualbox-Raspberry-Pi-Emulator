@@ -21,7 +21,7 @@ If you would like to have Raspberry Pi experience before owning the physical boa
 
 ##Setup:
 1. Double click the RaspberryPi icon to start the virtual machine.
-2. Enter ***rpi*** for login useraname ***password*** for login password.
+2. Enter ***rpi*** for login username and ***password*** for login password.
 3. Select Menu > Accesories > LXTerminal.
 4. Enter `cd debian` then `./launchDebian` to run Virtual Network Computer server.
 5. Enter ***password*** for password.
