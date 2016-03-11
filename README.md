@@ -12,7 +12,7 @@ If you would like to have Raspberry Pi experience before owning the physical boa
 1. Nevigate to the downloaded RaspberryPi.ova virtual machine file then.
    * Double click on the RaspberryPi.ova and VirtualBox window will open with settings.
    * Click/Enter import.
-                        ##OR
+       ##OR
    * Run VirtualBox.
    * Select File > Import Appliance > choose file path > Continue > Import.
 2. A RaspberryPi virtual machine is created.
