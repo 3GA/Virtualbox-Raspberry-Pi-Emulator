@@ -12,9 +12,19 @@ If you would like to have Raspberry Pi experience before owning the physical boa
 1. RaspberryPi virtual machine can be created in two steps.
    1. First Step:
       * Nevigate to the downloaded RaspberryPi.ova virtual machine file, double click it and VirtualBox window will open with settings.
-      * Click/Enter import.
+      * Click/Enter Import.
       
    2. Second Step:
       * Run VirtualBox.
       * Select File > Import Appliance > choose file path > Continue > Import.
 2. A RaspberryPi virtual machine is created.
+
+##Setup:
+1. Double click the RaspberryPi icon to start the virtual machine.
+2. Enter ***rpi*** for login useraname ***password*** for login password.
+3. Select Menu > Accesories > LXTerminal.
+4. Enter `cd debian` then `./launchDebian` to run Virtual Network Computer server.
+5. Enter ***password*** for password.
+6. Open another LXTerminal and enter `xtightvncviewer localhost`
+7. RaspberryPi login username is ***root*** and password is ***password***.
+8. You are now logged into the emulated RaspberryPi, Enjoy!!!.
